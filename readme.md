@@ -1,4 +1,4 @@
-# This is the readme file for my dev project
+# readme file for my dev project
 ## Introduction
 ## Content 
 ## Prerequisites 
